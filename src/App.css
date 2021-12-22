@@ -1,5 +1,5 @@
 .App {
-  max-width: 550px;
+  max-width: 525px;
   margin: 20 auto;
 }
 
@@ -8,4 +8,5 @@
   margin: 0 auto;
   text-align: center;
   font-family:'Courier New', Courier, monospace;
+  color: green;
 }
